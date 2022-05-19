@@ -1,0 +1,3 @@
+modelx
+matplotlib
+numpy
