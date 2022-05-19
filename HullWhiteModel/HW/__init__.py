@@ -149,8 +149,6 @@ def var_short_rate():
 # ---------------------------------------------------------------------------
 # References
 
-stats = ("Module", "scipy.stats")
-
 np = ("Module", "numpy")
 
 step_size = 360
